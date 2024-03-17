@@ -1,18 +1,18 @@
 ﻿MyFinancePlanner
-1.0.0.0
+
 
 winexe
 C#
 .cs
-C:\Users\akmuc\Desktop\MyFinanzeCalculator\obj\Debug\net8.0-windows\
+C:\Users\akmuc\Desktop\MyFinanzeCalculator\obj\Release\net8.0-windows\
 MyFinancePlanner
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\akmuc\Desktop\MyFinanzeCalculator\App.xaml
 2-2100345423
 
-11-446395530
+9983744531
 198915248976
 MainWindow.xaml;Views\formMonEx.xaml;
 

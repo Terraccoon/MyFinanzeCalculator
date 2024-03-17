@@ -8,5 +8,6 @@ namespace MyFinancePlanner.Interfaces
 {
     internal interface IBankAccount
     {
+
     }
 }

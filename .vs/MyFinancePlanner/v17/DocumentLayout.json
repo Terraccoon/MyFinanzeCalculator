@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\views\\formmonex.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:views\\formmonex.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\monex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:monex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\interfaces\\icosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:interfaces\\icosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\interfaces\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:interfaces\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0104C378-F322-4EC0-922A-FA76EFC4F2B8}|MyFinancePlanner.csproj|c:\\users\\akmuc\\desktop\\myfinanzecalculator\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -51,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T18:52:51.197Z",
               "IsPinned": true,
@@ -66,32 +74,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICosts.cs",
-              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Interfaces\\ICosts.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ICosts.cs",
-              "ToolTip": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Interfaces\\ICosts.cs",
-              "RelativeToolTip": "Interfaces\\ICosts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T18:54:29.572Z",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T20:15:32.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IBankAccount.cs",
               "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Interfaces\\IBankAccount.cs",
               "RelativeDocumentMoniker": "Interfaces\\IBankAccount.cs",
               "ToolTip": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Interfaces\\IBankAccount.cs",
               "RelativeToolTip": "Interfaces\\IBankAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T18:54:12.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator.cs",
@@ -104,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
@@ -112,7 +119,31 @@
               "RelativeToolTip": "Controller.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T18:53:32.629Z",
+              "WhenOpened": "2024-03-13T18:53:32.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonEx.cs",
+              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\MonEx.cs",
+              "RelativeDocumentMoniker": "MonEx.cs",
+              "ToolTip": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\MonEx.cs",
+              "RelativeToolTip": "MonEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:32:22.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formMonEx.xaml",
+              "DocumentMoniker": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Views\\formMonEx.xaml",
+              "RelativeDocumentMoniker": "Views\\formMonEx.xaml",
+              "ToolTip": "C:\\Users\\akmuc\\Desktop\\MyFinanzeCalculator\\Views\\formMonEx.xaml",
+              "RelativeToolTip": "Views\\formMonEx.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T20:08:57.751Z",
               "EditorCaption": ""
             }
           ]
